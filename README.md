@@ -1,5 +1,6 @@
-# ![](https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Earth.gif) Hello My GitHub Profile :
-🔭 I’m currently working on cloud consultant and implementer.<br>
+# ![](https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Earth.gif) Hello My I'm Morakot:
+I’m currently working on cloud consultant and implementer.<br>
+
 🌱 I’m currently learning coding and DevOps Technology<br>
 
 ## 🌐 Contect me:
