@@ -1,7 +1,8 @@
 # ![](https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Earth.gif) Hello My GitHub Profile :
 🔭 I’m currently working on cloud consultant and implementation.<br>
-🌱 I’m currently learning coding.<br>
-💬 Ask me about <br>⚡ Fun fact 
+🌱 I’m currently learning coding and DevOps Technology<br>
+💬 Ask me about <br>
+I cloud solution and Implementer based in Bkk. And I love writing code!
 
 
 ## 🌐 Socials:
