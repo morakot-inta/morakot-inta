@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4a2472fa-e9dd-4298-a969-8f6c36e167bb)# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Cloud consultant and implementation.<br>🌱 I’m currently learning coding.<br>💬 Ask me about <br>⚡ Fun fact 
 
 
