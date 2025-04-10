@@ -11,6 +11,7 @@
 <div style="width:20%; margin: auto;">
 ![](https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/twitter_thumb_201604_azure-solutions-architect-expert-600x600.png)<br/>
 </div>
+<img src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/twitter_thumb_201604_azure-solutions-architect-expert-600x600.png" alt="" width="100"/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=morakot-inta&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=morakot-inta&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
