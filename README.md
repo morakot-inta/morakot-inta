@@ -1,7 +1,6 @@
-# ![](https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Earth.gif) Hello My I'm Morakot:
+# ![](https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Earth.gif) Hello I'm Morakot:
 I’m currently working on cloud consultant and implementer.<br>
-
-🌱 I’m currently learning coding and DevOps Technology<br>
+I’m currently learning coding and DevOps Technology<br>
 
 ## 🌐 Contect me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/morakot-inta-5b4102152) 
