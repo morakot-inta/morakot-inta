@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9b97f3b1-caea-493f-bc8f-ee2a267f5269)# ![](https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Earth.gif) Hello I'm morakot:
+# ![](https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Earth.gif) Hello I'm morakot:
 I’m currently working on cloud consultant and implementer.<br>
 I’m currently learning coding and DevOps Technology<br>
 
