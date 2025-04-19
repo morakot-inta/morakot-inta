@@ -1,4 +1,4 @@
-# ![](https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Earth.gif) Hello I'm morakot:
+![image](https://github.com/user-attachments/assets/0f055459-cc26-49ac-bc97-f240694eb4b9)# ![](https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Earth.gif) Hello I'm morakot:
 I’m currently working on cloud consultant and implementer.<br>
 I’m currently learning coding and DevOps Technology<br>
 
@@ -15,9 +15,13 @@ I’m currently learning coding and DevOps Technology<br>
   <img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="" width="130"/>
   <img src="https://images.credly.com/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png" alt="" width="130"/>
   <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/twitter_thumb_201604_azure-data-fundamentals-600x600.png" alt="" width="130"/>
-  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="" width="130"/> 
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="" width="130"/>
+  <img src="https://devio2023-media.developers.io/wp-content/uploads/2023/06/DVA_icon.png" alt="" width="130"/>  
   <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="" width="130"/> 
+
+  
 <!--   <img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" alt="" width="130"/>  -->
+  <!--   <img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="" width="130"/>  -->
 </div>
 
 ---
