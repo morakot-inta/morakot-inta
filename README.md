@@ -17,7 +17,7 @@ I’m currently learning coding and DevOps Technology<br>
   <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/twitter_thumb_201604_azure-data-fundamentals-600x600.png" alt="" width="130"/>
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="" width="130"/> 
   <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="" width="130"/> 
-  <img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" alt="" width="130"/> 
+<!--   <img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" alt="" width="130"/>  -->
 </div>
 
 ---
