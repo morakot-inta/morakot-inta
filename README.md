@@ -22,7 +22,7 @@ I’m currently learning coding and DevOps Technology<br>
 
 
 <!--   github action -->
-<img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="" width="130"/>
+<img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="" width="100"/>
 </div>
 
 ---
