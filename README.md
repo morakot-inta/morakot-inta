@@ -20,10 +20,9 @@ I’m currently learning coding and DevOps Technology<br>
 <!--   <img src="https://devio2023-media.developers.io/wp-content/uploads/2023/06/DVA_icon.png" alt="" width="130"/>   -->
   <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="" width="100"/> 
 
-<!--   github admin -->
-<!-- <img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" alt="" width="100"/> -->
+
 <!--   github action -->
-<!--   <img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="" width="130"/>  -->
+<img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="" width="130"/>
 </div>
 
 ---
